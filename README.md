@@ -1,2 +1,2 @@
-# hello-git-github
+# A test repository!
 Test repository 🧪.
